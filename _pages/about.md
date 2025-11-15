@@ -30,7 +30,6 @@ Professionally, I have:
 
 **Capital University of Economics and Business** | Beijing, China  
 *Bachelor of Economics in Finance Engineering* | 2011–2015  
-- 
 - GPA: 88.41/100 (Ranked in top 5%)
 - Core Courses: Curriculum: Completed foundational training in Calculus（Mathematical Analysis）, Linear Algebra, and Probability and Mathematical Statistics during the first year, before specializing in Finance.
 - Core Economics & Finance Courses: Time Series Analysis, Mathematical Finance, Risk Theory Analysis, Statistics, Financial Engineering, Econometrics, Intermediate Microeconomics, Intermediate Macroeconomics
