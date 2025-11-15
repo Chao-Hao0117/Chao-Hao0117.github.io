@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include base-path %}
+{% include base_path %}  <-- 【【【【【改成这样！】】】】】
 
 您可以在这里下载我的完整版CV：
 
