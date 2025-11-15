@@ -13,7 +13,7 @@ permalink: /
 
 ## Biography
 
-I am an economics researcher and strategy professional with strong background in **econometrics, asset pricing, and financial engineering**. My research employs **empirical methods and financial modeling** to address questions in asset valuation and market behavior. Professionally, I have applied these skills in securities analysis, investment cultivation, and strategic decision-making.
+Welcome! Now I am a strategy manager in Qingdao Haike Holdings Co., Ltd.I am applying Ph.D. now and I have strong background in **econometrics, asset pricing, and financial engineering**. My research employs **empirical methods and financial modeling** to address questions in asset valuation and market behavior. Professionally, I have applied these skills in securities analysis, investment cultivation, and strategic decision-making.
 
 ## Research Interests
 
@@ -33,9 +33,9 @@ My research bridges **econometric methodology** and **financial economics**, wit
 
 ## Technical Skills
 
-- **Econometric Analysis**: Panel Data Regression, Time-Series Forecasting, Probit Models
-- **Programming & Tools**: Stata, R, MATLAB, EViews, SPSS, Python
-- **Financial Databases**: Wind, CSMAR
+- **Econometric Methods**: Panel Data Analysis, Time-Series Forecasting, Probit Models, Regression Analysis
+- **Programming & Tools**: Stata, R, MATLAB, EViews, SPSS, Python, Wind, CSMAR
+- **Financial Domains**: Asset Valuation, Risk Assessment, Corporate Finance, Investment Analysis
 - **Languages**: Chinese (Native), English (Proficient)
 
 ## Current Focus
