@@ -1,8 +1,5 @@
 ---
 
-## Honor Thesis: 
-
-
 title: "Calculation of the Beta Coefficient of Commercial Banks Based on VaR"
 collection: publications
 type: 'Thesis'  <-- 【【【添加这一行！】】】
