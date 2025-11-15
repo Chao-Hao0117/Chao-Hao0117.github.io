@@ -11,8 +11,9 @@ title:                       Hao Chao # 把 'Your Name Here' 换成你的名字
 name:                        Hao Chao # 换成你的名字
 email:                       chaohao0117@gmail.com # 换成你的邮箱
 description:                 "Economics Researcher & Practitioner | Asset Pricing | Financial Engineering | Empirical Corporate" # 换成一句对你网站的描述
-baseurl:                     "" # 这一行【不要动】！必须是 ""
-url:                         "https://Hao-Chao0117.github.io" # 把 'Your-Username' 换成你的用户名
+baseurl:                     "" 
+# 这一行【不要动】！必须是 ""
+url:                         "https://Chao-Hao0117.github.io" # 把 'Your-Username' 换成你的用户名
 author:
   # Biographic information
   avatar           : "profile.png"
