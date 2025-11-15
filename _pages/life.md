@@ -8,7 +8,7 @@ author_profile: true
 
 While my academic and professional journey was largely centered in Beijing, I eventually chose to settle in Qingdao, drawn by its coastal climate and more balanced pace of life.
 
-Currently, I live here with my wife (who is also a Ph.I'm. candidate), our cat, and our dog. We find that this city offers an ideal blend of work and life.
+Currently, I live here with my wife (who is a Ph.I'm. candidate), our cat, and our dog. We find that this city offers an ideal blend of work and life.
 
 ---
 
