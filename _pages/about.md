@@ -6,7 +6,8 @@ permalink: /
 
 # Hao Chao
 
-**Economics Researcher & Strategy Professional**
+**Strategy Professional**
+**Qingdao Haike Holdings Co., Ltd.**
 
 `Asset Pricing` `Financial Engineering` `Empirical Corporate Finance` `Valuation`
 
