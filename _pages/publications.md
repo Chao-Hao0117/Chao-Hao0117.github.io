@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## 硕士毕业论文 (Master Thesis)
+## Master Thesis
 
 {% for post in site.publications reversed %}
   {% if post.type == 'Thesis' %}
@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 
-## 期刊发表 (Journal Papers)
+## Journal Papers
 
 {% for post in site.publications reversed %}
   {% if post.type == 'Paper' %}
