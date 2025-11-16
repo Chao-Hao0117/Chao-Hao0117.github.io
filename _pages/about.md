@@ -44,8 +44,9 @@ My research interests are centered on the empirical analysis of financial market
 
 ## Technical Skills
 
-- **Econometric Methods**: Panel Data Analysis, Time-Series Forecasting, Probit Models, Regression Analysis
-- **Programming & Tools**: Stata, R, MATLAB, EViews, SPSS, Python, Wind, CSMAR
-- **Financial Domains**: Asset Valuation, Risk Assessment, Corporate Finance, Investment Analysis
+- **Econometrics & Statistical Analysis:** Proficient in Stata, EViews, R, MATLAB, and SPSS for empirical
+analysis, including panel data regression, time-series forecasting, and model validation techniques.
+- **Data Management & Databases:** Experienced in sourcing, cleaning, and managing datasets from financial
+databases (Wind, CSMAR) and unstructured sources (e.g., contracts, financial filings). 
 - **Languages**: Chinese (Native), English (Proficient)
 
