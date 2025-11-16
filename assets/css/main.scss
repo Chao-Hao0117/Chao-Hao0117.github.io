@@ -41,3 +41,21 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==========================================================================
+   【【【【【我的“强行覆盖”字体！（Hao Chao 专用）】】】】】
+   ========================================================================== */
+
+/* 1. 我们在这里“定义”一个我们想要的“黑体”字体列表 */
+/* （我们用 "Lato" 字体，就是我之前教你“安装”的那个） */
+$my-sans-serif-font: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+/* 2. 我们“强行命令”网站的“正文” (body) 使用这个新字体！*/
+body {
+    font-family: $my-sans-serif-font;
+}
+
+/* 3. 我们“强行命令”网站的“所有标题” (h1, h2...) 也使用这个新字体！*/
+h1, h2, h3, h4, h5, h6 {
+    font-family: $my-sans-serif-font;
+}
