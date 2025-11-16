@@ -11,12 +11,12 @@ author_profile: true
 
 `Asset Pricing` `Financial Engineering` `Empirical Corporate Finance` `Valuation`
 
-Welcome! I am a Strategy Manager at Qingdao Haike Holdings, where my work focuses on the intersection of corporate finance and public policy. My role gives me a frontline view of how firms make strategic decisions—from investment to IPOs—in response to complex market dynamics and government initiatives. 
+Welcome! My name is Hao Chao(Chinese name: 晁昊). You can call me Howie. I am a Strategy Manager at Qingdao Haike Holdings, where my work focuses on the intersection of corporate finance and public policy. My role gives me a frontline view of how firms make strategic decisions—from investment to IPOs—in response to complex market dynamics and government initiatives. 
 
 Professionally, I have:
 - Facilitated **RMB 1+ billion** in investment funds for SME cultivation
 - Participated financial due diligence for **IPO projects and strategic investments**
-- Developed **predictive financial models** using Stata, R, and MATLAB
+- Managed the organization of international conferences to facilitate B2B negotiations and foster corporate partnerships.
 - Managed **full-cycle quantitative research projects** from data collection to empirical validation
 
 This hands-on experience has been invaluable, but it has also consistently highlighted the gap between abstract financial models and real-world market behavior. I've found myself increasingly drawn to the "why" behind market frictions and asset valuation puzzles that my professional tools can identify but not fully explain. This curiosity—this need to move from observing these phenomena to modeling them—is the primary driver behind my pursuit of a PhD. I am now actively seeking **doctoral opportunities** to develop the rigorous empirical tools needed to answer these deeper questions.
