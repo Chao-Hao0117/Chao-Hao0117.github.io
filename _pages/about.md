@@ -6,6 +6,27 @@ header:
   overlay_image: https://chao-hao0117.github.io/images/view-picture.jpg
   overlay_filter: 0.1
 ---
+<style>
+  /* 针对 AcademicPages 主题的强制居中修正 */
+  .page__hero--overlay .wrapper {
+    text-align: center !important;
+    max-width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  
+  .page__hero-title {
+    text-align: center !important;
+    width: 100% !important;
+    display: block !important;
+    margin: 0 auto !important;
+  }
+
+  /* 如果有副标题，也让它居中 */
+  .page__hero-caption {
+    text-align: center !important;
+  }
+</style>
 ---
 # Hao Chao
 
