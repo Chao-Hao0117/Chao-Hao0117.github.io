@@ -1,10 +1,9 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 header:
   overlay_image: /assets/images/view picture.jpg
-  overlay_filter: 0.5
 ---
 ---
 # Hao Chao
