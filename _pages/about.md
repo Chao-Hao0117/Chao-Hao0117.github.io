@@ -3,7 +3,8 @@ permalink: /
 title: "About Me"
 author_profile: true
 header:
-  overlay_image: /images/view-picture.jpg
+  overlay_image: https://chao-hao0117.github.io/images/view-picture.jpg
+  overlay_filter: 0.1
 ---
 ---
 # Hao Chao
