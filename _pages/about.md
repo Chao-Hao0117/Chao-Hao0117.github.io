@@ -4,6 +4,7 @@ title: ""
 author_profile: true
 header:
   overlay_image: /images/view picture.jpg
+  overlay_filter: 0.5
 ---
 ---
 # Hao Chao
