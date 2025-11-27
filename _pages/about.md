@@ -53,3 +53,9 @@ analysis, including panel data regression, time-series forecasting, and model va
 databases (Wind, CSMAR) and unstructured sources (e.g., contracts, financial filings). 
 - **Languages**: Chinese (Native), English (Proficient)
 
+<style>
+  .page__hero-title {
+    text-align: center !important;
+    width: 100% !important;
+  }
+</style>
