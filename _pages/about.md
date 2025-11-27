@@ -33,9 +33,9 @@ header:
 **Strategy Professional**
 **Qingdao Haike Holdings Co., Ltd.**
 
-`Asset Pricing` `Financial Engineering` `Empirical Corporate Finance` `Valuation`
+`Asset Valuation` `Financial Engineering` `Econometrics`
 
-Welcome! My name is Hao Chao(Chinese name: 晁昊). You can call me Howie. I am a Strategy Manager at Qingdao Haike Holdings, where my work focuses on the intersection of corporate finance and public policy. My role gives me a frontline view of how firms make strategic decisions—from investment to IPOs—in response to complex market dynamics and government initiatives. 
+Welcome! My name is Hao Chao (Chinese name: 晁昊). You can call me Howie. I am a Strategy Manager at Qingdao Haike Holdings, where my work focuses on the intersection of corporate finance and public policy. My role gives me a frontline view of how firms make strategic decisions—from investment to IPOs—in response to complex market dynamics and government initiatives. 
 
 Professionally, I have:
 - Facilitated **RMB 1+ billion** in investment funds for SME cultivation
@@ -49,13 +49,13 @@ This hands-on experience has been invaluable, but it has also consistently highl
 My research interests are centered on the empirical analysis of financial markets:
 
 - **Econometrics**
-- **Asset Pricing**
-- **Financial Engineering/Corporate Finance & Valuation**
+- **Asset Valuation**
+- **Financial Econometrics**
 
 ## Education
 
 **Capital University of Economics and Business** | Beijing, China  
-*Master of Economics in Asset Appraisal* | 2015–2017  
+*Master of Economics in Asset Valuation* | 2015–2017  
 - GPA: 87.52/100 (Ranked in top 10%)
 - Core Courses: Valuation and Financial Statement Analysis, Business Valuation, Financial Asset Valuation
 
