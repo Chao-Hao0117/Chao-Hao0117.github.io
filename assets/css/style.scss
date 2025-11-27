@@ -1,1 +1,54 @@
+---
+---
 
+/* 上面的两个 --- 是必须的，不要删除。
+   这告诉 Jekyll 处理这个文件。
+*/
+
+/* 引入 Minimal 主题的默认样式，确保原有排版不乱 */
+@import "{{ site.theme }}";
+
+/* ==========================================================================
+   自定义顶部背景图片样式
+   ========================================================================== */
+
+/* 找到网页的 header 区域 */
+header {
+  /* 设置背景图片。
+     重要：请把 'header-bg.jpg' 替换成您实际上传的照片文件名。
+     路径前面的 / 不能少，代表从根目录开始找。
+  */
+  background-image: url('/assets/images/view picture.jpg');
+
+  /* 确保图片覆盖整个 header 区域，并在缩放时保持比例 */
+  background-size: cover;
+
+  /* 将图片中心对齐 */
+  background-position: center center;
+
+  /* 增加顶部和底部的高度（内边距），让图片显示得更多，看起来更大气 */
+  /* 您可以根据需要调整这两个数字，比如 100px 40px */
+  padding-top: 80px;
+  padding-bottom: 80px;
+
+  /* 可选：给背景加一个半透明的黑色遮罩，防止图片太亮导致文字看不清 */
+  /* 如果您的照片很暗，可以注释掉下面这一行（在行首加 //） */
+  background-color: rgba(0, 0, 0, 0.5);
+  /* 使用混合模式让遮罩覆盖在图片上 */
+  background-blend-mode: overlay;
+}
+
+/* 修改顶部标题和副标题的文字颜色
+   因为背景变成了照片（通常较深），我们需要把文字改成白色才看得清
+*/
+header h1, 
+header h2 {
+  color: #ffffff !important; /* 强制设置为白色 */
+  text-shadow: 1px 1px 5px rgba(0,0,0,0.5); /* 加一点文字阴影，更易读 */
+}
+
+/* 稍微调整一下标题的链接颜色，去掉默认的下划线等 */
+header h1 a {
+    color: #ffffff !important;
+    text-decoration: none;
+}
