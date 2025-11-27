@@ -3,7 +3,7 @@ permalink: /
 title: ""
 author_profile: true
 header:
-  overlay_image: /assets/images/view picture.jpg
+  overlay_image: /images/view picture.jpg
 ---
 ---
 # Hao Chao
