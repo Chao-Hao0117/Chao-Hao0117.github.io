@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 header:
   overlay_image: https://chao-hao0117.github.io/images/view-picture.jpg
